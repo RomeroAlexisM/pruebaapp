@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339271966551",
+    "firebase_url": "https://asado-am2019.firebaseio.com",
+    "project_id": "asado-am2019",
+    "storage_bucket": "asado-am2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339271966551:android:1f3674ee76f98a3e",
+        "android_client_info": {
+          "package_name": "com.arquitecturasmoviles.asado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339271966551-d723j7tdsfe4dbtro4o002he7856lbih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arquitecturasmoviles.asado",
+            "certificate_hash": "2a1822b967191db1dc8a209cf1495f5395134815"
+          }
+        },
+        {
+          "client_id": "339271966551-e4qrpho1fs2benqgsnvjqjua9ji4efdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k5IiI5NOr73edP9CF2u3GwBVhxkQE_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339271966551-e4qrpho1fs2benqgsnvjqjua9ji4efdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
